@@ -1,0 +1,11 @@
+﻿  GUItextRectangle.cpp
+  MyOGL.cpp
+  Object.cpp
+  OpenGLrememberProj.cpp
+  Primitives.cpp
+  PrimitivesStatic.cpp
+  Render.cpp
+c:\users\deadshot\desktop\новая папка (3)\курсовая по кг\cgcw\openglrememberproj\render.cpp(116): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+  Создание кода...
+c:\users\deadshot\desktop\новая папка (3)\курсовая по кг\cgcw\openglrememberproj\render.cpp(317): warning C4172: возвращение адреса локальной или временной переменной : vN
+  OpenGLrememberProj.vcxproj -> C:\Users\DeadShot\Desktop\Новая папка (3)\Курсовая по кг\CGCW\Debug\OpenGLrememberProj.exe
